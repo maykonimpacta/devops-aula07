@@ -10,5 +10,6 @@ string para indicar o estado de uma casa do jogo. A função retornará todas as
 casas inicialmente vazias.
 * A função jogar(jogador, linha, coluna) irá posicionar o **jogador** ('X' ou
 'O') na posição definida por **linha** e **coluna**.
+
 * A função ocupado(linha, coluna) irá retornar a mensagem 'Jogada não permitida'
 se a posição escolhida (linha, coluna) estiver ocupada.
