@@ -7,3 +7,8 @@ um jogo da velha.
 
 * Cada casa do jogo da velha poderá estar vazia, ocupada
 pelo 1o jogador ou ocupada pelo 2o jogador.
+
+* Para efetuar uma jogada , cada jogador só poderá 
+posicionar seu simbolo , caso a casa escolhida esteja vazia.
+
+* O sistema deverá informar se a jogada não for possivel.
