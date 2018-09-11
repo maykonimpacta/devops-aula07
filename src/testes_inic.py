@@ -22,5 +22,6 @@ if erroInicializar:
 else:
     sys.exit(0)
     
-    
+
 #TEstes realizados
+
